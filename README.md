@@ -1,4 +1,5 @@
 # k8s_aks
+![alt](pic2.PNG)
 ![azure-aks](pic.jpeg)
  
 ## mac installation
